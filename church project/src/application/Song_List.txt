@@ -1,0 +1,12 @@
+God's Grace  {
+		verse 1
+		chorus 1
+		verse 2
+		chorus 2
+	}
+Amazing Grace  {
+		verse 1
+		verse 2
+		verse 3
+		verse 4
+	}

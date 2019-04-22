@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javafx.scene.layout.GridPane"/>
+<fullyQualifiedTypeName name="java.awt.Label"/>
+<fullyQualifiedTypeName name="javafx.scene.control.Label"/>
+<fullyQualifiedTypeName name="javafx.scene.control.Button"/>
+<fullyQualifiedTypeName name="javafx.event.EventHandler"/>
+<fullyQualifiedTypeName name="javafx.event.ActionEvent"/>
+<fullyQualifiedTypeName name="javafx.stage.Screen"/>
+<fullyQualifiedTypeName name="javafx.geometry.Rectangle2D"/>
+<fullyQualifiedTypeName name="javafx.scene.layout.Pane"/>
+<fullyQualifiedTypeName name="javafx.scene.layout.VBox"/>
+<fullyQualifiedTypeName name="javafx.scene.layout.HBox"/>
+<fullyQualifiedTypeName name="javafx.scene.image.Image"/>
+<fullyQualifiedTypeName name="javafx.scene.image.ImageView"/>
+<fullyQualifiedTypeName name="javafx.scene.control.ToggleButton"/>
+<fullyQualifiedTypeName name="javafx.application.Application"/>
+<fullyQualifiedTypeName name="javafx.scene.control.Hyperlink"/>
+<fullyQualifiedTypeName name="javafx.scene.control.Control"/>
+<fullyQualifiedTypeName name="javafx.scene.layout.StackPane"/>
+<fullyQualifiedTypeName name="javafx.scene.canvas.Canvas"/>
+<fullyQualifiedTypeName name="javafx.scene.Group"/>
+<fullyQualifiedTypeName name="javax.swing.Painter"/>
+<fullyQualifiedTypeName name="application.Painter"/>
+<fullyQualifiedTypeName name="javafx.scene.paint.Paint"/>
+<fullyQualifiedTypeName name="javafx.animation.Animation"/>
+<fullyQualifiedTypeName name="javafx.animation.AnimationTimer"/>
+<fullyQualifiedTypeName name="javafx.scene.shape.Rectangle"/>
+<fullyQualifiedTypeName name="javafx.scene.canvas.GraphicsContext"/>
+<fullyQualifiedTypeName name="javafx.scene.paint.Color"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+<fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+</qualifiedTypeNameHistroy>

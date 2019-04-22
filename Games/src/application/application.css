@@ -1,0 +1,69 @@
+/* start window */
+#StartLabel
+{
+	-fx-graphic-text-gap: 10;
+	-fx-label-padding: 10;
+	-fx-text-fill: yellow;
+	-fx-font-size: 50;
+}
+
+#HBoxTitle
+{
+	-fx-alignment: center;
+}
+
+#MainFrame
+{
+	-fx-background-color: lightblue;
+
+}
+
+#MainButtons
+{
+	-fx-pref-height: 50px;
+    -fx-pref-width: 200px;
+}
+
+#MainButtons:hover
+{
+	-fx-background-color: linear-gradient(lightgrey, white);
+}
+
+#MainButtons:pressed
+{
+	-fx-background-color: black;
+}
+
+#VBoxFrame
+{
+	-fx-alignment: center;
+}
+
+
+
+/* game pick screen */
+#SnakeHyperlink
+{
+	-fx-size: 10;
+	-fx-background-color: cadetblue;
+	-fx-text-fill: yellow;
+	-fx-alignment: center;
+	-fx-pref-height: 50px;
+	-fx-pref-width: 100px;
+}
+
+#SnakeHyperlink:hover
+{
+	-fx-background-color: linear-gradient(lightblue, cadetblue);
+}
+
+#SnakeHyperlink:pressed
+{
+	-fx-background-color: blue;
+}
+
+/* game canvas screen */
+#GameCanvas
+{
+	-fx-background-color: black;
+}
